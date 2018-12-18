@@ -1,6 +1,6 @@
 {
     "type": "composer-plugin",
-    "name": "mcaskill/composer-exclude-files",
+    "name": "zorca/composer-exclude-files",
     "description": "Exclude files from autoload_files.php",
     "license": "MIT",
     "authors": [
